@@ -1,0 +1,9 @@
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\hamur\Desktop\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
